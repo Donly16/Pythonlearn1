@@ -1,7 +1,7 @@
 '''
 Created on 2017年10月23日
 
-@author: Jorble
+@author: cyp
 '''
 
 Data_File = "E:\workspace\Pythonlearn1\src\datas.xlsx"
